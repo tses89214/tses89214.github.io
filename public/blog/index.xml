@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on ChiaXuan 的個人網站</title>
-    <link>https://tses89214.github.io/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on ChiaXuan 的個人網站</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>zh-tw</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://tses89214.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

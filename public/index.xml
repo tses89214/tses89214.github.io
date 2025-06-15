@@ -1,12 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>歡迎來到 ChiaXuan 的網站 on ChiaXuan 的個人網站</title>
-    <link>https://tses89214.github.io/</link>
-    <description>Recent content in 歡迎來到 ChiaXuan 的網站 on ChiaXuan 的個人網站</description>
+    <title>ChiaXuan 的個人網站</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on ChiaXuan 的個人網站</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>zh-tw</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://tses89214.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Jun 2025 22:41:29 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 15 Jun 2025 22:41:29 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;-senior-data-engineer&#34;&gt;🧑‍💻 Senior Data Engineer&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;BenQ 明基電通&lt;/strong&gt; · 全職&lt;br&gt;
+2024年5月－現在｜台北市, 台灣&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;【日常業務】&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;現有 ETL 重構&lt;/li&gt;
+&lt;li&gt;相關 infra 管理維運&lt;/li&gt;
+&lt;li&gt;第三方資料來源導入&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;【制度導入 &amp;amp; 建置】&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;數據倉儲權限制度與建置&lt;/li&gt;
+&lt;li&gt;團隊文件制度化建立&lt;/li&gt;
+&lt;li&gt;讀書會制度建立&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;【新工具導入 &amp;amp; 開發】&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;團隊共用之 API 平台開發&lt;/li&gt;
+&lt;li&gt;Prometheus + Grafana 導入&lt;/li&gt;
+&lt;li&gt;參與實驗性地點數據收集系統，取代原有 Matomo 架構&lt;/li&gt;
+&lt;li&gt;以 Appium 開發 Data QA 自動化工具，以減少分析師人工操作成本&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-data-engineer&#34;&gt;🧑‍💻 Data Engineer&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Pixl Solutions 像素數科技術有限公司&lt;/strong&gt; · 全職&lt;br&gt;
+2023年8月－2024年4月｜台灣台北市&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS、GCP 數據倉儲之管理、優化、改善方案研究&lt;/li&gt;
+&lt;li&gt;ELK 相關服務之維運、數據提取、問題排查&lt;/li&gt;
+&lt;li&gt;客戶指數報表需求支援與數據分析&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>
