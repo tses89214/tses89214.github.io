@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on ChiaXuan 的個人網站</title>
+    <title>Categories on Po Jian | Traveler on the Data Engineering Journey – 資料工程旅人</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on ChiaXuan 的個人網站</description>
-    <generator>Hugo -- 0.147.8</generator>
+    <description>Recent content in Categories on Po Jian | Traveler on the Data Engineering Journey – 資料工程旅人</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
+    <managingEditor>tses89214@gmail.com (Po Jian)</managingEditor>
+    <webMaster>tses89214@gmail.com (Po Jian)</webMaster>
+    <copyright>© 2025 Po Jian</copyright>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
   </channel>
 </rss>
