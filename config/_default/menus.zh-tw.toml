@@ -11,17 +11,17 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "About"
+ name = "關於"
  pageRef = "about"
  weight = 1
 
 [[main]]
- name = "Projects"
+ name = "專案"
  pageRef = "projects"
  weight = 2
 
 [[main]]
- name = "Blogs"
+ name = "文章"
  pageRef = "blogs"
  weight = 3
 
