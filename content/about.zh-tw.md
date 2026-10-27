@@ -42,10 +42,10 @@ showWordCount = false
   - 讀書會制度建立  
 
 - 【新工具導入 & 開發】  
-  - 團隊共用之 API 平台開發  
-  - Prometheus + Grafana 導入  
-  - 參與實驗性地點數據收集系統，取代原有 Matomo 架構  
-  - 以 Appium 開發 Data QA 自動化工具，減少分析師人工操作成本  
+  - 團隊共用之 API 平台開發（token 驗證與更新、限流、權限管理、稽核紀錄、CI/CD）  
+  - 系統維運重建：Prometheus + Grafana 監控、LDAP 帳號管理、NAS 備份  
+  - 自建事件追蹤工具，取代原有 Matomo 架構  
+  - 以 Appium 開發 Data QA 框架，取代分析師每次發版前在測試機上點好幾天的人工作業  
 
 ---
 ## 🧊 Data Engineer  

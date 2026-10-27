@@ -33,7 +33,11 @@ I value evidence-driven analysis, empathy when a team changes how it works, and 
 May 2024 – present, Taipei, Taiwan
 - **Day to day:** refactoring existing ETL, operating the related infrastructure, onboarding third-party data sources
 - **Systems and practices:** data warehouse access control and layering, team documentation standards, a study group
-- **Tools:** a shared API platform for the team, Prometheus + Grafana, an in-house event-tracking tool replacing Matomo, and a Data QA automation tool built with Appium to cut analysts' manual work
+- **Tools and platforms:**
+  - A shared API platform: token authentication and renewal, rate limiting, permissions, audit logs, CI/CD
+  - System operations rebuilt: Prometheus + Grafana monitoring, LDAP account management, NAS backups
+  - An in-house event-tracking tool replacing Matomo
+  - An Appium-based Data QA framework; analysts used to spend several days tapping through test devices before each release
 
 ---
 ## 🧊 Data Engineer
