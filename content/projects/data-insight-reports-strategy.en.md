@@ -1,5 +1,5 @@
 +++
-title = "Data Insight Reports: Strategy"
+title = "[Medium article] Data Insight Reports: Strategy"
 date = '2026-09-15'
 draft = false
 description = "A regularly produced research report from the data team, built with Databricks Genie (Text-to-SQL) as the basis for decisions."

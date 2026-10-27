@@ -1,5 +1,5 @@
 +++
-title = "Insight Portal"
+title = "[Medium article] Insight Portal"
 date = '2026-09-18'
 draft = false
 description = "An internal portal that puts the insight reports and data in users' hands."

@@ -1,5 +1,5 @@
 +++
-title = 'agent-perch：讓長時間運行的 AI agent 不掛'
+title = '【GitHub 專案】 agent-perch：讓長時間運行的 AI agent 不掛'
 date = '2026-10-13'
 draft = false
 description = '單一檔案、只用標準函式庫的 supervisor，讓一台機器上的 Claude Code 等 agent 持續運作。'
