@@ -2,7 +2,7 @@ disabled = false
 languageCode = "zh-tw"
 languageName = "繁體中文"
 weight = 1
-title = "Po Jian | Traveler on the Data Engineering Journey – 資料工程旅人"
+title = "Po Jian | 資深資料工程師"
 
 [params]
   displayName = "ZH-TW"
@@ -11,7 +11,7 @@ title = "Po Jian | Traveler on the Data Engineering Journey – 資料工程旅�
   dateFormat = "2 January 2006"
 #   logo = "img/logo.png"
 #   secondaryLogo = "img/secondary-logo.png"
-#   description = "My awesome website"
+  description = "Po Jian，資深資料工程師。資料倉儲、事件追蹤、Airflow on Kubernetes、LLM 護欄評測，以及技術文章。"
 #   copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
