@@ -1,0 +1,21 @@
+/*
+ * Center the content column on article and list pages.
+ * Blowfish keeps content on the left and reserves the right side for a table
+ * of contents; this site does not use one, so the page looked lopsided.
+ * The homepage (profile layout) is not matched by these selectors.
+ */
+#main-content > article:has(> #single_header),
+#main-content > header,
+#main-content > header ~ section {
+  max-width: 42rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Let the inner blocks fill the centered column instead of their own max-w-prose. */
+#main-content > article > #single_header,
+#main-content > article .article-content,
+#main-content > article > footer,
+#main-content > header ~ section div.max-w-prose {
+  max-width: 100%;
+}
