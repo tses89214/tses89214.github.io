@@ -7,9 +7,11 @@ showReadingTime = false
 showWordCount = false
 +++
 
-## The Evolution of Our Data Team
+I write on Medium. This page has three parts: a long-running **article series**, **technical notes**, and **reading notes**.
 
-A Medium series about how a data team with little documentation and few processes slowly became one with documentation, processes and infrastructure it can trust. It is less about new technology than about what changed in the way we work. [Series overview](https://medium.com/@tses89214/the-evolution-of-our-data-team-a4f363ae31ee)
+## Article series: The Evolution of Our Data Team
+
+A 12-part series (in Chinese and English) about how a data team with little documentation and few processes slowly became one with documentation, processes and infrastructure it can trust. It is less about new technology than about what changed in the way we work. [Series overview](https://medium.com/@tses89214/the-evolution-of-our-data-team-a4f363ae31ee)
 
 The order follows cause and effect: culture first (make knowledge writable), then a trustworthy technical foundation, then AI products on top of it.
 
@@ -35,7 +37,7 @@ The order follows cause and effect: culture first (make knowledge writable), the
 - [Insight Portal](https://medium.com/p/453a9447b7e2)
 
 
-## Technical notes (Chinese)
+## Technical notes (in Chinese)
 
 **Data architecture**
 
@@ -57,7 +59,7 @@ The order follows cause and effect: culture first (make knowledge writable), the
 - [Ruff — Linter 的新選擇](https://medium.com/p/fe1e9bd10af5)
 - [Matomo - 網頁埋點搜集與分析工具](https://medium.com/p/2b94be3ae261)
 
-## Reading notes (Chinese)
+## Reading notes (in Chinese)
 
 <details>
 <summary>The Data Warehouse Toolkit (29)</summary>
@@ -126,7 +128,7 @@ The order follows cause and effect: culture first (make knowledge writable), the
 
 </details>
 
-## Other (Chinese)
+## Other (in Chinese)
 
 - [AWS Certified Data Engineer — Associate](https://medium.com/p/a8f7078c8d9e)
 - [使用 Jira 管理我的生活](https://medium.com/p/ad253e0e5f22)
