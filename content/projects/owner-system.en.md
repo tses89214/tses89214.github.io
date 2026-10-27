@@ -1,8 +1,8 @@
 +++
-title = 'The Owner System: Making a Data Team Work by Shared Rules'
-date = '2024-10-31'
+title = "The Owner System: Every Project a Small Team"
+date = '2026-01-31'
 draft = false
-description = 'A project Owner system, team documentation standards and a weekly study group, written up in the Medium series.'
-tags = ['Team Practices', 'Data Governance', 'Documentation']
-externalUrl = 'https://medium.com/@tses89214/the-evolution-of-our-data-team-the-owner-system-4a45ffb09be4'
+description = "Drawing on Scrum, a set of project roles so every project has an owner, a backup and a review."
+tags = ['Team Practices', 'Project Management']
+externalUrl = 'https://medium.com/p/4a45ffb09be4'
 +++

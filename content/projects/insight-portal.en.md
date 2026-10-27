@@ -1,8 +1,8 @@
 +++
-title = "Insight Portal: Putting Data in Users' Hands"
-date = '2026-08-31'
+title = "Insight Portal"
+date = '2026-09-18'
 draft = false
-description = "An internal portal that gives users direct access to data insights."
-tags = ['Databricks', 'AI', 'Data Portal']
-externalUrl = 'https://medium.com/@tses89214/the-evolution-of-our-data-team-insight-portal-453a9447b7e2'
+description = "An internal portal that puts the insight reports and data in users' hands."
+tags = ['AI', 'Data Portal']
+externalUrl = 'https://medium.com/p/453a9447b7e2'
 +++

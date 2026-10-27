@@ -1,8 +1,8 @@
 +++
-title = 'Airflow on Kubernetes: Migration and System Operations'
-date = '2025-05-31'
+title = "Migrating Airflow to K8s"
+date = '2025-09-30'
 draft = false
-description = "Built a Kubernetes cluster from leftover servers and moved Airflow to the Kubernetes executor, with separate production and test."
-tags = ['Airflow', 'Kubernetes', 'Prometheus', 'Grafana']
-externalUrl = 'https://medium.com/@tses89214/the-evolution-of-our-data-team-migrating-airflow-to-k8s-8ad956175a61'
+description = "Built a Kubernetes cluster from leftover servers, moved Airflow from the Celery executor to the Kubernetes executor, and separated production from test."
+tags = ['Airflow', 'Kubernetes']
+externalUrl = 'https://medium.com/p/8ad956175a61'
 +++
