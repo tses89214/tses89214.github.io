@@ -17,13 +17,18 @@ showWordCount = false
 - 以 Databricks Genie（Text-to-SQL）與 Insight Portal 建立資料分析白皮書
 
 **技能**
-Python、SQL｜Airflow、PySpark、Kafka｜Databricks、BigQuery、OpenSearch/ELK、MySQL｜AWS、GCP｜Kubernetes、Docker、Prometheus、Grafana｜DataHub、資料建模
+
+- **語言：** Python、SQL
+- **資料工程：** Airflow、PySpark、Kafka
+- **倉儲與平台：** Databricks、BigQuery、OpenSearch/ELK、MySQL
+- **雲端：** AWS、GCP
+- **基礎設施與監控：** Kubernetes、Docker、Prometheus、Grafana
+- **資料治理：** DataHub、資料建模
 
 ---
 ## 🛠️ Senior Data Engineer  
 **BenQ 明基電通** · 全職  
-2024年5月－現在｜台北市, 台灣
-
+2024年5月－現在，台北市, 台灣
 - 【日常業務】  
   - 現有 ETL 重構  
   - 相關 infra 管理維運  
@@ -43,8 +48,7 @@ Python、SQL｜Airflow、PySpark、Kafka｜Databricks、BigQuery、OpenSearch/EL
 ---
 ## 🧊 Data Engineer  
 **Pixl Solutions 像素數科技術有限公司**  
-2023年8月－2024年4月｜台北市, 台灣  
-
+2023年8月－2024年4月，台北市, 台灣
 - 負責 AWS、GCP 上數據倉儲之管理與效能優化  
 - ELK 相關服務（Elasticsearch, Logstash, Kibana）維運與問題排查  
 - 協助各部門數據需求與分析支援  
@@ -53,8 +57,7 @@ Python、SQL｜Airflow、PySpark、Kafka｜Databricks、BigQuery、OpenSearch/EL
 ---
 ## 📽️ Data Engineer  
 **科科串流科技股份有限公司**  
-2022年8月－2023年4月｜台北市, 台灣  
-
+2022年8月－2023年4月，台北市, 台灣
 - 內部資料處理框架開發與 AWS 資源串接整合  
 - 成效報表模組重構與指標設計  
 - 儀表板設計與數據可視化  
@@ -63,8 +66,7 @@ Python、SQL｜Airflow、PySpark、Kafka｜Databricks、BigQuery、OpenSearch/EL
 ---
 ## 🍊 Data Engineer  
 **遊戲橘子數位科技股份有限公司**  
-2021年6月－2022年8月｜台北市, 台灣  
-
+2021年6月－2022年8月，台北市, 台灣
 - ETL 流程維護、優化與開發  
 - 行銷廣告資料倉儲設計與 API 串接  
 - 數據字典專案推動與實作（使用 DataHub）  
@@ -74,8 +76,7 @@ Python、SQL｜Airflow、PySpark、Kafka｜Databricks、BigQuery、OpenSearch/EL
 ---
 ## 🎓 Smart Education Administrator
 **國立雲林科技大學**  
-2019年3月－2021年5月｜雲林縣, 台灣  
-
+2019年3月－2021年5月，雲林縣, 台灣
 -  學習行為建議系統 ─ 神經網絡模型開發與訓練
 -  自動化爬蟲&推播程式撰寫
    -推播文字風格實驗設計、執行、分析
@@ -91,16 +92,14 @@ Python、SQL｜Airflow、PySpark、Kafka｜Databricks、BigQuery、OpenSearch/EL
 ---
 ## ✈️ Data Analyst Intern  
 **KKday 酷遊天股份有限公司** · 實習  
-2017年8月－2018年6月｜台北市, 台灣  
-
+2017年8月－2018年6月，台北市, 台灣
 - 維護每日競價報表系統與自動寄發報表  
 - 操作與更新競價資料爬蟲工具  
 
 ---
 ## 🧬 Data Analyst Intern  
 **泓廣數據有限公司** · 實習  
-2017年7月－2017年8月｜台北市, 台灣  
-
+2017年7月－2017年8月，台北市, 台灣
 - 撰寫網路爬蟲（使用 R 語言）並協助資料清洗與整理  
 - 參與語意系統訓練與產品測試  
 
