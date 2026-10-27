@@ -4,7 +4,19 @@ draft = false
 title = 'About Me'
 +++
 
+5 年資料分析與資料工程經驗，政治大學工業與組織心理學碩士。
+相信證據導向的分析、帶領團隊變革時的同理心，以及把資料交到使用者手上。
 
+**代表成果**
+- 自建事件追蹤工具 Momotaro，取代舊有 Matomo 架構
+- 將 Airflow 從 Celery 遷移到 K8s Executor，並建立 Prometheus + Grafana 監控
+- 設計數據倉儲分層與團隊文件規範，建立專案 Owner 制度與讀書會
+- 以 Databricks Genie（Text-to-SQL）與 Insight Portal 建立資料分析白皮書
+
+**技能**
+Python、SQL｜Airflow、PySpark、Kafka｜Databricks、BigQuery、OpenSearch/ELK、MySQL｜AWS、GCP｜Kubernetes、Docker、Prometheus、Grafana｜DataHub、資料建模
+
+---
 ## 🛠️ Senior Data Engineer  
 **BenQ 明基電通** · 全職  
 2024年5月－現在｜台北市, 台灣
@@ -90,3 +102,13 @@ title = 'About Me'
 - 參與語意系統訓練與產品測試  
 
 ---
+## 🎓 學歷
+
+- 國立政治大學 工業與組織心理學碩士（2016/09－2019/03）
+- 國立中正大學 心理學學士（2012/09－2016/06）
+
+## 📜 證照
+
+- Databricks Certified Data Engineer Associate（2026/05）
+- AWS Certified Data Engineer – Associate（2024/02）
+- Google Cloud Associate Cloud Engineer（2023/04）
