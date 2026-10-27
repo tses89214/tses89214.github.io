@@ -1,8 +1,8 @@
 +++
-title = "Documentation Architecture: Moving Knowledge out of People's Heads"
-date = '2024-09-30'
+title = "Documentation Architecture: Getting Knowledge out of People's Heads"
+date = '2024-06-30'
 draft = false
-description = "A team documentation base covering technical docs, guides and experience notes, so work no longer depends on one person."
+description = "My first task after joining: a standard and framework for the team's documentation knowledge base, so experience in members' heads is put on the record."
 tags = ['Documentation', 'Knowledge Management']
-externalUrl = 'https://medium.com/@tses89214/the-evolution-of-our-data-team-documentation-architecture-f4940139a17b'
+externalUrl = 'https://medium.com/p/f4940139a17b'
 +++

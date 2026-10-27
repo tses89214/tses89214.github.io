@@ -1,8 +1,8 @@
 +++
-title = 'Insight Portal：把資料交到使用者手上'
-date = '2026-08-31'
+title = "Insight Portal 入口網站"
+date = '2026-09-18'
 draft = false
-description = '讓使用者直接取用資料洞察的內部入口網站。'
-tags = ['Databricks', 'AI', 'Data Portal']
-externalUrl = 'https://medium.com/@tses89214/ai-3-insight-portal-%E5%85%A5%E5%8F%A3%E7%B6%B2%E7%AB%99-b7a8c0687c52'
+description = "一個內部入口網站，把洞察報告與資料交到使用者手上。"
+tags = ['AI', 'Data Portal']
+externalUrl = 'https://medium.com/p/b7a8c0687c52'
 +++
