@@ -69,7 +69,7 @@ Python、SQL｜Airflow、PySpark、Kafka｜Databricks、BigQuery、OpenSearch/EL
 
 
 ---
-## 🎓 Smart Education Research Assistant
+## 🎓 Smart Education Administrator
 **國立雲林科技大學**  
 2019年3月－2021年5月｜雲林縣, 台灣  
 
