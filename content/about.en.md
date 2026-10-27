@@ -54,7 +54,8 @@ Jun 2021 – Aug 2022 | Taipei, Taiwan
 - Built monitoring dashboards in Grafana
 
 ---
-## 🎓 Smart Education, National Yunlin University of Science and Technology
+## 🎓 Smart Education Administrator
+**National Yunlin University of Science and Technology**
 Mar 2019 – May 2021 | Yunlin, Taiwan
 
 - Developed and trained a neural network model for learning-behavior recommendations
