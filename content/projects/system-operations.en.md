@@ -1,5 +1,5 @@
 +++
-title = "System Operations: Rebuilding from the Ground Up"
+title = "[Medium article] System Operations: Rebuilding from the Ground Up"
 date = '2025-10-31'
 draft = false
 description = "Took over a system that only had to run, then rebuilt monitoring (Prometheus, Grafana), account management (LDAP) and backups (NAS)."
