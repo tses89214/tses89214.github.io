@@ -6,4 +6,4 @@ Data engineer with 5 years of experience in analytics and data engineering, and 
 
 Always happy to chat and collaborate. Email or LinkedIn works.
 
-📄 [Download my resume (PDF)](/Po-Jian-Resume-EN.pdf)
+📄 [Full resume (Cake, Chinese and English)](https://www.cake.me/6c0257)　📄 [Two-page resume (PDF)](/Po-Jian-Resume-EN.pdf)

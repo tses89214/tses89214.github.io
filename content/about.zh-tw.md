@@ -10,7 +10,7 @@ showWordCount = false
 政治大學工業與組織心理學碩士。
 相信證據導向的分析、帶領團隊變革時的同理心，以及把資料交到使用者手上。
 
-📄 [中文履歷（Cake）](https://www.cake.me/6c0257)　📄 [下載英文履歷（PDF）](/Po-Jian-Resume-EN.pdf)
+📄 [完整履歷（Cake，中英文版）](https://www.cake.me/6c0257)　📄 [兩頁精簡履歷（PDF，英文）](/Po-Jian-Resume-EN.pdf)
 
 **代表成果**
 - 自建事件追蹤工具 Momotaro，取代舊有 Matomo 架構
