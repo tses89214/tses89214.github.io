@@ -10,7 +10,7 @@ showWordCount = false
 Master's in Industrial and Organizational Psychology from National Chengchi University.
 I value evidence-driven analysis, empathy when a team changes how it works, and putting data in users' hands.
 
-📄 [Download my resume (PDF)](/Po-Jian-Resume-EN.pdf)
+📄 [Full resume (Cake, Chinese and English)](https://www.cake.me/6c0257)　📄 [Two-page resume (PDF)](/Po-Jian-Resume-EN.pdf)
 
 **Selected results**
 - Built Momotaro, an in-house event-tracking tool that replaced a legacy Matomo setup
