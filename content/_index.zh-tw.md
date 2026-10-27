@@ -6,4 +6,4 @@ title = 'Po Jian'
 
 歡迎交流與合作，來信或在 LinkedIn 找我都可以。
 
-📄 [下載英文履歷（PDF）](/Po-Jian-Resume-EN.pdf)
+📄 [中文履歷（Cake）](https://www.cake.me/6c0257)　📄 [下載英文履歷（PDF）](/Po-Jian-Resume-EN.pdf)
