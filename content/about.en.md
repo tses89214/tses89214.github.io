@@ -73,6 +73,40 @@ Mar 2019 – May 2021 | Yunlin, Taiwan
 - **Hongguang Data**, Data Analyst Intern (Jul – Aug 2017): wrote web crawlers in R and helped clean data
 
 ---
+## 💬 What colleagues say
+From an anonymous peer-feedback survey at BenQ (original comments are in Chinese; roles only).
+
+> Built several cloud-service management mechanisms with systematic documentation, and communicated them well, so the team works by shared rules rather than goodwill.
+> — PM
+
+> Set up the Data Documentation Hub, which strengthened how the team documents project history and shares technical knowledge.
+> — 資料分析師
+
+> Helped the team set up an on-prem LLM to replace a paid LLM in similar use cases, cutting LLM costs significantly.
+> — 資料科學家
+
+> Configured and integrated the department's compute and dev/test environments, choosing easy-to-adopt technology with clear documentation.
+> — ML 工程師
+
+> The gentlest, most patient and most problem-solving engineer I have worked with.
+> — 數據工程師
+
+> A colleague who makes you feel at ease.
+> — 資料分析師
+
+> Clear logic, a real problem solver.
+> — 資料科學家
+
+> Proactive, reliable, fast and funny.
+> — PM
+
+> The team's strongest backup.
+> — ML 工程師
+
+[See the feedback deck](https://docs.google.com/presentation/d/1bEzK_a9X5cGwnRy8oJNWAnh05zIoIR3vO44cEp5C4qc/edit)
+
+
+---
 ## 🎓 Education
 
 - M.A., Industrial and Organizational Psychology, National Chengchi University (2016 – 2019)
