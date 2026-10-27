@@ -2,9 +2,12 @@
 date = '2025-06-15T22:41:29+08:00'
 draft = false
 title = 'About Me'
+showDate = false
+showReadingTime = false
+showWordCount = false
 +++
 
-5 年資料分析與資料工程經驗，政治大學工業與組織心理學碩士。
+政治大學工業與組織心理學碩士。
 相信證據導向的分析、帶領團隊變革時的同理心，以及把資料交到使用者手上。
 
 **代表成果**
