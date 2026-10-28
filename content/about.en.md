@@ -13,7 +13,7 @@ showWordCount = false
 **Selected results**
 - Rebuilt system operations: Prometheus + Grafana monitoring, LDAP account management, NAS backups
 - Migrated Airflow to the Kubernetes executor, with separate production and test environments
-- Built Momotaro, an in-house event-tracking tool that significantly cut costs
+- Built Momotaro, an in-house event-tracking tool that improved performance and significantly cut costs
 - Designed the data warehouse layers and access policy; set up team documentation standards, a project Owner system and a weekly study group
 - Built a data analysis white paper with Databricks Genie (Text-to-SQL) and an internal Insight Portal
 
@@ -36,8 +36,8 @@ May 2024 – present, Taipei, Taiwan
 - **Tools and platforms:**
   - A shared API platform: token authentication and renewal, rate limiting, permissions, audit logs, CI/CD
   - System operations rebuilt: Prometheus + Grafana monitoring, LDAP account management, NAS backups
-  - An in-house event-tracking tool replacing Matomo
-  - An Appium-based Data QA framework; analysts used to spend several days tapping through test devices before each release
+  - Momotaro, an in-house event-tracking tool that improved performance and significantly cut costs
+  - An Appium-based Data QA framework that automated days of manual pre-release tap-testing
 
 ---
 ## 🧊 Data Engineer
