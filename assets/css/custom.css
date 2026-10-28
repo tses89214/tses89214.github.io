@@ -19,3 +19,15 @@
 #main-content > header ~ section div.max-w-prose {
   max-width: 100%;
 }
+
+/*
+ * Avoid a lone character on the last line of a paragraph (e.g. "用。").
+ * The homepage bio is centered, so balance its lines; elsewhere just avoid orphans.
+ * Browsers without support simply wrap as before.
+ */
+.prose p {
+  text-wrap: pretty;
+}
+#main-content > article.text-center > section.prose p {
+  text-wrap: balance;
+}
