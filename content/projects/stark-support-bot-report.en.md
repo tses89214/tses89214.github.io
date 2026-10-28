@@ -1,5 +1,5 @@
 +++
-title = "[Report] Stark Support Bot: Evaluation Report"
+title = "[Report] Stark Support Bot Evaluation Results"
 date = '2026-10-27'
 draft = false
 description = "The full results: defense ladder L0 to L3, retrieval comparison, review layer and limits."
