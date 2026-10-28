@@ -13,8 +13,6 @@ I write on Medium. This page has three parts: a long-running **article series**,
 
 A 12-part series (in Chinese and English) about how a data team with little documentation and few processes slowly became one with documentation, processes and infrastructure it can trust. It is less about new technology than about what changed in the way we work. [Series overview](https://medium.com/@tses89214/the-evolution-of-our-data-team-a4f363ae31ee)
 
-The order follows cause and effect: culture first (make knowledge writable), then a trustworthy technical foundation, then AI products on top of it.
-
 A summary of every article is on the [Projects page](/en/projects/); the items marked [Medium article] are this series.
 
 ## Technical notes (in Chinese)
