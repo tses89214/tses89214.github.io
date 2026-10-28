@@ -2,7 +2,7 @@
 title = 'Po Jian'
 +++
 
-Data engineer with a psychology background and 5 years in analytics and data engineering. I believe a data environment is judged not by how new its technology is, but by whether people are willing to use it and trust it, so I usually change the technology and the way people work together: I replaced an entire event-tracking system without shipping a new app release, turned days of manual pre-release tap-testing into automated tests, and set up documentation standards and an owner system so the team no longer runs on memory.
+Data engineer with a psychology background and 5 years in analytics and data engineering. I believe a data environment is judged not by how new its technology is, but by whether people are willing to use it and trust it, so I care about building things that work well and stay stable: an in-house event-tracking system that stopped the recurring data errors and went live without touching the app; automated tests for pre-release tracking checks instead of days of manual tapping; and documentation standards and an owner system so these systems hold up even when people change.
 
 Always happy to chat and collaborate. Email or LinkedIn works.
 
