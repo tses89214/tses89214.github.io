@@ -8,16 +8,14 @@ showReadingTime = false
 showWordCount = false
 +++
 
-政治大學工業與組織心理學碩士。
-相信證據導向的分析、帶領團隊變革時的同理心，以及把資料交到使用者手上。
-
 📄 [完整履歷（Cake，中英文版）](https://www.cake.me/6c0257)　📄 [兩頁精簡履歷（PDF，英文）](/Po-Jian-Resume-EN.pdf)
 
 **代表成果**
-- 自建事件追蹤工具 Momotaro，取代舊有 Matomo 架構
-- 將 Airflow 從 Celery 遷移到 K8s Executor，並建立 Prometheus + Grafana 監控
-- 設計數據倉儲分層與團隊文件規範，建立專案 Owner 制度與讀書會
-- 以 Databricks Genie（Text-to-SQL）與 Insight Portal 建立資料分析白皮書
+- 重建系統維運：Prometheus + Grafana 監控、LDAP 帳號管理、NAS 備份
+- 將 Airflow 遷移至 K8s Executor，分開正式與測試環境
+- 自建事件追蹤工具 Momotaro，上線不需更新 App
+- 設計數據倉儲分層與權限制度，建立團隊文件規範、Owner 制度與讀書會
+- 以 Databricks Genie（Text-to-SQL）與 Insight Portal 建立數據分析白皮書
 
 **技能**
 
@@ -27,6 +25,7 @@ showWordCount = false
 - **雲端：** AWS、GCP
 - **基礎設施與監控：** Kubernetes、Docker、Prometheus、Grafana
 - **資料治理：** DataHub、資料建模
+- **AI / LLM：** Databricks Genie、RAG、LLM 評測與護欄
 
 ---
 ## 🛠️ Senior Data Engineer  
