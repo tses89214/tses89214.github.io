@@ -17,11 +17,6 @@ showWordCount = false
 
 ## 技術筆記
 
-**數據架構**
-
-- [直連生產 DB](https://medium.com/p/99410016bd9d)
-- [Medallion Architecture（獎章架構）](https://medium.com/p/104375b37ded)
-
 **BigQuery 與 GCP**
 
 - [BigQuery integer-range partitioned table](https://medium.com/p/858f50abd0fa)
@@ -30,8 +25,9 @@ showWordCount = false
 - [BigQuery 在 JOIN 時的成本計算](https://medium.com/p/bf60751b3696)
 - [Service Account 遇到 403 The user's Drive storage quota has been exceeded](https://medium.com/p/c64381eb8dd5)
 
-**工具**
+**架構與工具**
 
+- [Medallion Architecture（獎章架構）](https://medium.com/p/104375b37ded)
 - [Hadoop 與 Hive](https://medium.com/p/acf2492b290f)
 - [ElasticSearch 的 SQL API](https://medium.com/p/80ffdbf72d14)
 - [Ruff — Linter 的新選擇](https://medium.com/p/fe1e9bd10af5)
