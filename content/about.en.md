@@ -3,6 +3,7 @@ date = '2025-06-15T22:41:29+08:00'
 draft = false
 title = 'About Me'
 showDate = false
+showAuthor = true
 showReadingTime = false
 showWordCount = false
 +++
