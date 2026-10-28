@@ -13,7 +13,7 @@ showWordCount = false
 **Selected results**
 - Rebuilt system operations: Prometheus + Grafana monitoring, LDAP account management, NAS backups
 - Migrated Airflow to the Kubernetes executor, with separate production and test environments
-- Built Momotaro, an in-house event-tracking tool that went live without an app update
+- Built Momotaro, an in-house event-tracking tool that significantly cut costs
 - Designed the data warehouse layers and access policy; set up team documentation standards, a project Owner system and a weekly study group
 - Built a data analysis white paper with Databricks Genie (Text-to-SQL) and an internal Insight Portal
 

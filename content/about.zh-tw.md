@@ -13,7 +13,7 @@ showWordCount = false
 **代表成果**
 - 重建系統維運：Prometheus + Grafana 監控、LDAP 帳號管理、NAS 備份
 - 將 Airflow 遷移至 K8s Executor，分開正式與測試環境
-- 自建事件追蹤工具 Momotaro，上線不需更新 App
+- 自建事件追蹤工具 Momotaro，大幅降低費用成本
 - 設計數據倉儲分層與權限制度，建立團隊文件規範、Owner 制度與讀書會
 - 以 Databricks Genie（Text-to-SQL）與 Insight Portal 建立數據分析白皮書
 
