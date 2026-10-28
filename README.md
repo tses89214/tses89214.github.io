@@ -1,6 +1,6 @@
 # tses89214.github.io
 
-Personal site of Po Jian (簡柏軒), a senior data engineer: <https://tses89214.github.io>
+Personal site of Jia Xuan (Po) Jian (簡嘉炫), a senior data engineer: <https://tses89214.github.io>
 
 Built with [Hugo](https://gohugo.io/) (extended) and the [Blowfish](https://blowfish.page/) theme, deployed to GitHub Pages by `.github/workflows/hugo.yml` on every push to `main`.
 
