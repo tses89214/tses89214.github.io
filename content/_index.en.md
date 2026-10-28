@@ -2,7 +2,7 @@
 title = 'Po Jian'
 +++
 
-Data engineer with 5 years of experience in analytics and data engineering, and a psychology master's background. I have worked on data warehouse layering, an in-house event-tracking tool, an Airflow migration to Kubernetes, and an internal data portal. I also build personal projects and write technical articles in public.
+A data engineer with a psychology background and 5 years in analytics and data engineering. I believe a good data environment is one people are willing to use and can trust. From the underlying infrastructure, data warehouse and Airflow, to documentation and warehouse governance, to AI data products, what I care about is always the same thing: whether the data actually makes a difference for the team and the company.
 
 Always happy to chat and collaborate. Email or LinkedIn works.
 

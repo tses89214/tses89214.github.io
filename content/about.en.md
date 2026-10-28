@@ -8,15 +8,13 @@ showReadingTime = false
 showWordCount = false
 +++
 
-Master's in Industrial and Organizational Psychology from National Chengchi University.
-I value evidence-driven analysis, empathy when a team changes how it works, and putting data in users' hands.
-
 📄 [Full resume (Cake, Chinese and English)](https://www.cake.me/6c0257)　📄 [Two-page resume (PDF)](/Po-Jian-Resume-EN.pdf)
 
 **Selected results**
-- Built Momotaro, an in-house event-tracking tool that replaced a legacy Matomo setup
-- Migrated Airflow from the Celery executor to the Kubernetes executor, and set up Prometheus + Grafana monitoring
-- Designed the data warehouse layers and team documentation standards; started a project Owner system and a weekly study group
+- Rebuilt system operations: Prometheus + Grafana monitoring, LDAP account management, NAS backups
+- Migrated Airflow to the Kubernetes executor, with separate production and test environments
+- Built Momotaro, an in-house event-tracking tool that went live without an app update
+- Designed the data warehouse layers and access policy; set up team documentation standards, a project Owner system and a weekly study group
 - Built a data analysis white paper with Databricks Genie (Text-to-SQL) and an internal Insight Portal
 
 **Skills**
@@ -27,6 +25,7 @@ I value evidence-driven analysis, empathy when a team changes how it works, and 
 - **Cloud:** AWS, GCP
 - **Infrastructure and monitoring:** Kubernetes, Docker, Prometheus, Grafana
 - **Data governance:** DataHub, data modeling
+- **AI / LLM:** Databricks Genie, RAG, LLM evaluation and guardrails
 
 ---
 ## 🛠️ Senior Data Engineer
