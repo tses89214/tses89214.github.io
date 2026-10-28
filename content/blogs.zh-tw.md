@@ -15,35 +15,14 @@ showWordCount = false
 
 順序有因果：先讓知識能被寫下來（文化），再把大家能信任的地基打穩（技術），最後在地基上長出數據產品（AI）。
 
-**Culture（文化）**
-
-- [文件架構](https://medium.com/p/bc03aa2bc5a1)
-- [數據倉儲架構](https://medium.com/p/f39455fb411a)
-- [讀書會](https://medium.com/p/a9607b7e5d8d)
-- [Owner 制度](https://medium.com/p/c99de1bffeb9)
-
-**Tech（技術）**
-
-- [Serving API Platform](https://medium.com/p/f236d3f9ddb9)
-- [埋點工具更新 — Momotaro](https://medium.com/p/917d7be78e5a)
-- [數據埋點 QA 框架](https://medium.com/p/f1c5c3ed7154)
-- [Airflow 遷移至 K8s](https://medium.com/p/d102003b3296)
-- [系統維運](https://medium.com/p/a972c670af72)
-
-**AI**
-
-- [數據分析白皮書 (策略篇)](https://medium.com/p/7e98520eb3fe)
-- [數據分析白皮書 (實作篇)](https://medium.com/p/254c50697d54)
-- [Insight Portal 入口網站](https://medium.com/p/b7a8c0687c52)
-
+每一篇的摘要都整理在[專案頁](/projects/)，標有【Medium 文章】的就是這個系列。
 
 ## 技術筆記
 
 **數據架構**
 
-- [資料工程架構系列(1) — 直連生產 DB](https://medium.com/p/99410016bd9d)
-- [數據架構系列(2) — Medallion Architecture (獎章架構)](https://medium.com/p/104375b37ded)
-- [數據工具系列(1) — Hadoop 與 Hive](https://medium.com/p/acf2492b290f)
+- [直連生產 DB](https://medium.com/p/99410016bd9d)
+- [Medallion Architecture（獎章架構）](https://medium.com/p/104375b37ded)
 
 **BigQuery 與 GCP**
 
@@ -55,6 +34,7 @@ showWordCount = false
 
 **工具**
 
+- [Hadoop 與 Hive](https://medium.com/p/acf2492b290f)
 - [ElasticSearch 的 SQL API](https://medium.com/p/80ffdbf72d14)
 - [Ruff — Linter 的新選擇](https://medium.com/p/fe1e9bd10af5)
 - [Matomo - 網頁埋點搜集與分析工具](https://medium.com/p/2b94be3ae261)
@@ -66,9 +46,9 @@ showWordCount = false
 
 - [The Data Warehouse Toolkit — 目錄](https://medium.com/p/7fe5fa312e11)
 - [The Data Warehouse Toolkit — Ch1 (1) Overview & Target](https://medium.com/p/2bbbc14fba5f)
-- [The Data Warehouse Toolkit — Ch1 (2) dimensional Modeling](https://medium.com/p/f710f21e530e)
-- [The Data Warehouse Toolkit — Ch1 (part4) 其他架構](https://medium.com/p/10a73bb09815)
+- [The Data Warehouse Toolkit — Ch1 (2) Dimensional Modeling](https://medium.com/p/f710f21e530e)
 - [The Data Warehouse Toolkit — Ch1 (3) Kimball Structure](https://medium.com/p/a43d92ccc307)
+- [The Data Warehouse Toolkit — Ch1 (4) 其他架構](https://medium.com/p/10a73bb09815)
 - [The Data Warehouse Toolkit — Ch2 Kimball Dimensional Modeling Techniques Overview](https://medium.com/p/3c41755f0f7e)
 - [The Data Warehouse Toolkit — Ch3 Retail Sales (1) Identify Dimensions & Facts](https://medium.com/p/e8f13c506b66)
 - [The Data Warehouse Toolkit — Ch3 Retail Sales (2) After Go Live](https://medium.com/p/c298099ccc86)
@@ -99,7 +79,7 @@ showWordCount = false
 <details>
 <summary>Lean Analytics (10)</summary>
 
-- [Lean Analytics— 目錄](https://medium.com/p/40ff26693758)
+- [Lean Analytics — 目錄](https://medium.com/p/40ff26693758)
 - [Lean Analytics — Ch1 We're All Liars](https://medium.com/p/ca2f70dcd741)
 - [Lean Analytics — Ch2 How to Keep Score](https://medium.com/p/cfb3764d0e52)
 - [Lean Analytics — Ch3 Deciding What to Do with Your Life](https://medium.com/p/15004c77ea54)
@@ -115,14 +95,14 @@ showWordCount = false
 <details>
 <summary>Machine Learning Design Patterns (10)</summary>
 
-- [Machine Learning Design Patterns— 前言](https://medium.com/p/94020b953808)
+- [Machine Learning Design Patterns — 前言](https://medium.com/p/94020b953808)
 - [Machine Learning Design Patterns — 目錄](https://medium.com/p/021c83b7ff8c)
 - [Machine Learning Design Patterns — Patterns 1 & 2](https://medium.com/p/322a65487826)
 - [Machine Learning Design Patterns — Patterns 3 & 4](https://medium.com/p/fcbc5ecbc5ca)
-- [Machine Learning Design Patterns — Patterns 5& 6](https://medium.com/p/bb64d7bf3fc7)
+- [Machine Learning Design Patterns — Patterns 5 & 6](https://medium.com/p/bb64d7bf3fc7)
 - [Machine Learning Design Patterns — Patterns 7 Ensembles](https://medium.com/p/334c0e81ce49)
 - [Machine Learning Design Patterns — Patterns 8 Cascades](https://medium.com/p/8f5bc333a893)
-- [Machine Learning Design Patterns — Patterns 9 Netural Class](https://medium.com/p/7e2c79f1141c)
+- [Machine Learning Design Patterns — Patterns 9 Neutral Class](https://medium.com/p/7e2c79f1141c)
 - [Machine Learning Design Patterns — Patterns 19 Two-Phase Predictions](https://medium.com/p/ef8d04cdb73d)
 - [Machine Learning Design Patterns — Patterns 20 Keyed Predictions](https://medium.com/p/6c0f875d129d)
 
