@@ -7,13 +7,21 @@ showReadingTime = false
 showWordCount = false
 +++
 
-我在 Medium 寫作，這頁分成三塊：一個長期連載的**系列文章**、**技術筆記**，以及**讀書心得**。
+我在 Medium 寫作，這頁分成四塊：一個長期連載的**系列文章**、個人專案 **Rise & Slime** 的文章、**技術筆記**，以及**讀書心得**。
 
 ## 系列文章：數據團隊進化中
 
 這是一個共 12 篇的連載（有中文與英文版），記錄一個缺乏文件與流程的資料團隊，如何慢慢變成有文件、有流程、也有基礎設施可以信任的團隊。重點不在用了多新的技術，而是做事方式改了什麼。[系列總覽](https://medium.com/@tses89214/%E5%B7%A5%E4%BD%9C%E6%88%90%E6%9E%9C-%E6%95%B8%E6%93%9A%E5%9C%98%E9%9A%8A%E9%80%B2%E5%8C%96%E4%B8%AD-the-evolution-of-our-data-team-53e08be01452)
 
 每一篇的摘要都整理在[專案頁](/projects/)，標有【Medium 文章】的就是這個系列。
+
+## 個人專案：Rise & Slime
+
+一款史萊姆麵包坊放置遊戲，以及它背後的即時數據管線（Collector → Kafka → Flink → ClickHouse）。兩篇都有中文與英文版。
+
+- 遊戲介紹：[中文](https://medium.com/@tses89214/rise-slime-%E4%B8%80%E6%AC%BE%E9%97%9C%E6%96%BC%E5%8F%B2%E8%90%8A%E5%A7%86%E9%BA%B5%E5%8C%85%E5%9D%8A%E7%9A%84%E5%B0%8F%E5%9E%8B%E6%94%BE%E7%BD%AE%E9%81%8A%E6%88%B2-e6dc4d4bea48) ／ [English](https://medium.com/@tses89214/rise-slime-a-small-idle-game-about-a-slime-bakery-d1690c0aa9b8)
+- 數據管線：[中文](https://medium.com/@tses89214/rise-slime-%E6%95%B8%E6%93%9A%E7%AE%A1%E7%B7%9A-84957da1cd00) ／ [English](https://medium.com/@tses89214/rise-slime-data-pipeline-728c26f34e1e)
+- [試玩（itch.io，瀏覽器直接玩）](https://tses89214.itch.io/rise-slime)　[原始碼（GitHub）](https://github.com/tses89214/Rise-Slime)
 
 ## 技術筆記
 
