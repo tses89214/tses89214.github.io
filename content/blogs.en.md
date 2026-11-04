@@ -7,13 +7,21 @@ showReadingTime = false
 showWordCount = false
 +++
 
-I write on Medium. This page has three parts: a long-running **article series**, **technical notes**, and **reading notes**.
+I write on Medium. This page has four parts: a long-running **article series**, articles on my side project **Rise & Slime**, **technical notes**, and **reading notes**.
 
 ## Article series: The Evolution of Our Data Team
 
 A 12-part series (in Chinese and English) about how a data team with little documentation and few processes slowly became one with documentation, processes and infrastructure it can trust. It is less about new technology than about what changed in the way we work. [Series overview](https://medium.com/@tses89214/the-evolution-of-our-data-team-a4f363ae31ee)
 
 A summary of every article is on the [Projects page](/en/projects/); the items marked [Medium article] are this series.
+
+## Side project: Rise & Slime
+
+A slime bakery idle game and the real-time data pipeline behind it (Collector → Kafka → Flink → ClickHouse). Both posts are available in Chinese and English.
+
+- The game: [English](https://medium.com/@tses89214/rise-slime-a-small-idle-game-about-a-slime-bakery-d1690c0aa9b8) / [中文](https://medium.com/@tses89214/rise-slime-%E4%B8%80%E6%AC%BE%E9%97%9C%E6%96%BC%E5%8F%B2%E8%90%8A%E5%A7%86%E9%BA%B5%E5%8C%85%E5%9D%8A%E7%9A%84%E5%B0%8F%E5%9E%8B%E6%94%BE%E7%BD%AE%E9%81%8A%E6%88%B2-e6dc4d4bea48)
+- The data pipeline: [English](https://medium.com/@tses89214/rise-slime-data-pipeline-728c26f34e1e) / [中文](https://medium.com/@tses89214/rise-slime-%E6%95%B8%E6%93%9A%E7%AE%A1%E7%B7%9A-84957da1cd00)
+- [Play it (itch.io, in the browser)](https://tses89214.itch.io/rise-slime) · [Source code (GitHub)](https://github.com/tses89214/Rise-Slime)
 
 ## Technical notes (in Chinese)
 
